@@ -1,0 +1,11 @@
+pandas
+numpy
+seaborn
+scikit-learn
+xgboost
+lightgbm
+catboost
+yellowbrick
+optuna
+jupyterlab
+black
